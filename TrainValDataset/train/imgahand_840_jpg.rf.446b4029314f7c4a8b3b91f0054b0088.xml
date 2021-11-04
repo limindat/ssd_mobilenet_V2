@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>imgahand_840_jpg.rf.446b4029314f7c4a8b3b91f0054b0088.jpg</filename>
+	<path>imgahand_840_jpg.rf.446b4029314f7c4a8b3b91f0054b0088.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>224</xmax>
+			<ymin>108</ymin>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>imghandup153_jpg.rf.aaf3050012320d642e40e8b09189180b.jpg</filename>
+	<path>imghandup153_jpg.rf.aaf3050012320d642e40e8b09189180b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>49</xmin>
+			<xmax>233</xmax>
+			<ymin>108</ymin>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

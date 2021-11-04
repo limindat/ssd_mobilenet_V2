@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>imgsleep1_1880_jpg.rf.a424b46a68f1a1be99645f0935e43889.jpg</filename>
+	<path>imgsleep1_1880_jpg.rf.a424b46a68f1a1be99645f0935e43889.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sleep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>246</xmax>
+			<ymin>105</ymin>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

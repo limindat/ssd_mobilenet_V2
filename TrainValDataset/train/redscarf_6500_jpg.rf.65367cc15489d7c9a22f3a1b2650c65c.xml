@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>redscarf_6500_jpg.rf.65367cc15489d7c9a22f3a1b2650c65c.jpg</filename>
+	<path>redscarf_6500_jpg.rf.65367cc15489d7c9a22f3a1b2650c65c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redscarf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>104</xmin>
+			<xmax>168</xmax>
+			<ymin>171</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
